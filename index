@@ -1,0 +1,369 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Clinic</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</head>
+
+<body>
+<header class="bg-white mt-2 sticky-top header">
+	<div class="header-left">
+		<img src="images/logo.png" alt="LOGO.PNG">
+	</div>
+	<nav class="text-primary header-right">
+		<ul>
+			<li>
+				<a href="#home">Home</a>
+			</li>
+			<li>
+				<a href="#about">About</a>
+			</li>
+			<li>
+				<a href="#services">Services</a>
+			</li>
+			<li>
+				<a href="#team">Team</a>
+			</li>
+			<li>
+				<a href="#gallery">Gallery</a>
+			</li>
+			<li>
+				<a href="#test">Testimonial</a>
+			</li>
+			
+			<li>
+				<a href="#">Contact</a>
+			</li>
+
+		</ul>
+	</nav>
+</header>
+  <!-- Header -->
+  <!-- Home -->
+<section id="home" class="home text-white ">
+	<div class="container">
+		<div class="row  py-5">
+			<div class="col-6 mt-5">
+				<h5 class="mt-4"> Better Life Through</h5>
+				<h2 class="mt-4 my-4" > Better Dentistry</h2>
+				<p class="mt-5 my-5">
+					Join Us for Fun and friendly Environment. Our professionals are working so hard to see smile on your face that you deserve! We are dedicated about our duties.
+				</p>
+				<a  href="#" class="b-1 mt-5">Appointment</a>
+				<a href="#" class="b-2 mt-5">Learn More</a>
+			</div>
+			<div class="col-6"><img src="images/home.png" alt="home"></div>
+		</div></div>
+		
+</section>
+<!-- ABOUT -->
+	<section class="about pt-5 my-5" id="about">
+		<div class="container">
+			<div class="row mt-5 my-5">
+				<div class="col-4 ">
+					<div class="co1 ps-5 text-center">
+					<img class="mt-3 my-3 text-center " src="images/about2.png" alt="About1">
+					<h2 class="mt-1">Easy Appoinment</h2>
+					<p class="my-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co1 ps-5 text-center">
+					<img class="mt-3 my-3 text-center " src="images/about1.png" alt="About1">
+					<h2 class="mt-1">Emergency Services</h2>
+					<p class="my-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co1 ps-5 text-center">
+					<img class="mt-3 my-4 text-center " src="images/about3.png" alt="About1">
+					<h2 class="mt-1">24/7 Service</h2>
+					<p class="my-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		<div class="container">
+		<div class="row">
+			<div class="col-6 img">
+				<img src="images/about4.png">
+			</div>
+			<div class="col-5 text">
+				<h2>
+					Welcome To A Family
+				</h2>
+				<div class="row">
+					<div class="col-6 cl1">
+				<div class="co2 text-center ">
+					<h4 class="pt-4">500+</h4>
+					<p>Happy Patients</p>
+				</div>
+				</div>
+				<div class="col-6 cl2">
+				<div class="co2 text-center ">
+					<h4 class="pt-4">88+</h4>
+					<p>Qualified Doctors</p>
+				</div>
+				</div>
+				<div class="col-6 cl3">
+				<div class="co2 text-center ">
+					<h4 class="pt-4">25+</h4>
+					<p>Years Experience</p>
+				</div>
+				</div>
+				<div class="col-6 cl4">
+				<div class="co2 text-center ">
+					<h4 class="pt-4">55+</h4>
+					<p>Dental Awards</p>
+				</div>
+				</div>
+			</div>
+		</div>
+			
+		</div>
+	</div>
+	</section>
+	<!-- SERVICES -->
+	<section class="pt-5 services" id="services">
+		<h1 class="text-center text-white  ">
+			Our Services
+		</h1>
+		<div class="container py-5">
+			<div class="row mt-1 py-5 my-5">
+				<div class="col-4 col-sm-4 ">
+					<div class="co3 py-4 ps-5 text-left">
+					<img class="mt-3 img-fluid my-3  " src="images/ser1.png" alt="About1">
+					<h2 class="mt-1">Complete Density</h2>
+					<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan vulputate erat, vitae luctus nisl molestie sollicitudin. Etiam efficitur eros eu sem laoreet, a varius eros pulvinar </p>
+					<a href="#" class="b-2  mt-4">Learn More</a>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co3 py-4 ps-5 text-left">
+					<img class="mt-3 my-3 " src="images/se2.png" alt="About1">
+					<h2 class="mt-1">Dental Selants</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Ut accumsan vulputate erat, vitae luctus nisl molestie sollicitudin. Etiam efficitur eros eu sem laoreet, a varius eros pulvinar</p>
+					<a href="#" class="b-2 mt-4">Learn More</a>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co3 ps-5 py-4 text-left">
+					<img class="mt-3 my-3  " src="images/se3.png" alt="About1">
+					<h2 class="mt-1">Dental Dictionary</h2>
+					<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan vulputate erat, vitae luctus nisl molestie sollicitudin. Etiam efficitur eros eu sem laoreet, a varius eros pulvinar </p>
+					<a href="#" class="b-2 mt-4">Learn More</a>
+					</div>
+				</div>
+				
+			</div>
+
+			<div class="row mt-5 py-3 my-5">
+				<div class="col-4 ">
+					<div class="co3 py-4 ps-5 text-left">
+					<img class="mt-3 my-3  " src="images/ser1.png" alt="About1">
+					<h2 class="mt-1">Dental Implants</h2>
+					<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan vulputate erat, vitae luctus nisl molestie sollicitudin. Etiam efficitur eros eu sem laoreet, a varius eros pulvinar </p>
+					<a href="#" class="b-2  mt-4">Learn More</a>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co3 py-4 ps-5 text-left">
+					<img class="mt-3 my-3 " src="images/se2.png" alt="About1">
+					<h2 class="mt-1">Oral Surgery</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Ut accumsan vulputate erat, vitae luctus nisl molestie sollicitudin. Etiam efficitur eros eu sem laoreet, a varius eros pulvinar</p>
+					<a href="#" class="b-2 mt-4">Learn More</a>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co3 ps-5 py-4 text-left">
+					<img class="mt-3 my-3  " src="images/se3.png" alt="About1">
+					<h2 class="mt-1">Genral Dentistry </h2>
+					<p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan vulputate erat, vitae luctus nisl molestie sollicitudin. Etiam efficitur eros eu sem laoreet, a varius eros pulvinar </p>
+					<a href="#" class="b-2 mt-4">Learn More</a>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- TEAM -->
+	<section class="pt-5 team" id="team">
+		<div class="container">
+			<h1 class="text-center">Our Dentist</h1>
+			<div class="row mt-5 my-5">
+				<div class="col-4 ">
+					<div class="co1 py-2 ps-5 text-center">
+					<img class="mt-3 my-3 text-center " src="images/t1.png" alt="About1">
+					<h2 class="mt-1">Darry Milin </h2>
+					<p class="my-5">Oral Surgeon </p>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co1 py-1 ps-5 text-center">
+					<img class="mt-3 my-3 text-center " src="images/t2.png" alt="About1">
+					<h2 class="mt-1">Solmon Ahmad</h2>
+					<p class="my-5">Oral Surgeon </p>
+					</div>
+				</div>
+				<div class="col-4  ">
+					<div class="co1 py-1 ps-5 text-center">
+					<img class=" my-3  text-center " src="images/t3.png" alt="About1">
+					<h2 class="mt-1">Santa Binte</h2>
+					<p class="my-5 ">Oral Surgeon</p>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- Gallery -->
+	<section class="pt-5 gallery text-white text-center" id="gallery">
+		<h1>Our Gallery</h1>
+		<img class="py-1" src="images/g.png">
+	</section>
+	<!-- REVIEWS -->
+	<section class="test pt-5 bg-light" id="test">
+				<h1 class="text-center py-1"> Testimonials</h1>
+				<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+				  <div class="carousel-indicators ">
+				    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+				    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+				  </div>
+				  <div class="carousel-inner">
+				    <div class="carousel-item active">
+				      <div class="container">
+				      	<div class="row">
+				      		<div class="col-3">
+				      			<div class="co1  ps-1 text-center">
+									<img class="mt-3 my-3 text-center " src="images/t1.png" alt="About1">
+									<h2 class="mt-1">Darry Milin </h2>
+									<p class="my-5">Oral Surgeon </p>
+									</div>
+				      		</div>
+				      		<div class="col-9 mt-5">
+				      			<h1 class="mt-5">Awesome Work</h1>
+				      			<p>
+				      				Join Us for Fun and friendly Environment. Our professionals are working so hard to see smile on your face that you deserve! We are dedicated about our duties.
+				      			</p>
+				      		</div>
+				      	</div>
+				      </div>
+				    </div>
+				    <div class="carousel-item">
+				      <div class="container">
+				      	<div class="row">
+				      		<div class="col-3">
+				      			<div class="co1  ps-1 text-center">
+									<img class="mt-3 my-3 text-center " src="images/t1.png" alt="About1">
+									<h2 class="mt-1">Darry Milin </h2>
+									<p class="my-5">Oral Surgeon </p>
+									</div>
+				      		</div>
+				      		<div class="col-9 mt-5">
+				      			<h1 class="mt-5">Awesome Work</h1>
+				      			<p>
+				      				"Join Us for Fun and friendly Environment. Our professionals are working so hard to see smile on your face that you deserve! We are dedicated about our duties."
+				      			</p>
+				      		</div>
+				      	</div>
+				      </div>
+				    </div>
+				    <div class="carousel-item">
+				      <div class="container">
+				      	<div class="row">
+				      		<div class="col-3">
+				      			<div class="co1  ps-1 text-center">
+									<img class="mt-3 my-3 text-center " src="images/t1.png" alt="About1">
+									<h2 class="mt-1">Darry Milin </h2>
+									<p class="my-5">Oral Surgeon </p>
+									</div>
+				      		</div>
+				      		<div class="col-9 mt-5">
+				      			<h1 class="mt-5">Awesome Work</h1>
+				      			<p>
+				      				Join Us for Fun and friendly Environment. Our professionals are working so hard to see smile on your face that you deserve! We are dedicated about our duties.
+				      			</p>
+				      		</div>
+				      	</div>
+				      </div>
+				    </div>
+				  </div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+				    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				    <span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+				    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+				    <span class="visually-hidden">Next</span>
+				  </button>
+				</div>
+	</section>
+	<footer >
+  <div class="f1">
+    <h3>
+      CONTACT DETAILS
+    </h3>
+    
+      <span>
+        <i class="fa fa-map-marker"></i>
+        156-157, Block 3, BYJCHS, Bahadurabad
+Karachi, Pakistan
+      </span>
+      
+      <br />
+      <span>
+        <i class="fa fa-phone"></i>
+        (021) 111-624-333 (111-NAHEED)
+      </span>
+      <br />
+
+      <span>
+       <i class="fa fa-clock-o"></i>
+       Customer Support: 7 Days a Week, 9:00am - 10:00pm
+      </span>
+    
+  </div>
+
+  <div class="f2">
+    <h3>
+      CUSTOMER SERVICES
+    </h3>
+    <p>
+      <a href="#">Contact Us</a>
+      <a href="#">Delivery Info</a>
+      <a href="#">FAQs</a>
+      <a href="#">Naheed Loyalty</a>
+
+    </p>
+  </div>
+
+  <div class="f3">
+    <h3>
+      Information
+    </h3>
+    <p>
+      <a href="#">Return & Refund</a>
+      <a href="#">Privacy Policy</a>
+      <a href="#">Terms & Conditions</a>
+    </p>
+  </div>
+
+<div class="f4">
+    <h3>
+      SUBSCRIBE OUR NEWSLETTER
+    </h3>
+    <p class="one">
+      Get the<span> latest offers </span>and promotions!
+    </p>
+    <div class="email">
+    <input type="email" name="email" placeholder="Enter Your email" >
+    <button class="b-2">  Subscribe</button></div>
+  </div>
+</footer>
+</body>
+</html>
